@@ -1,5 +1,6 @@
 # 🍽️ Sistema de Gestión de Restaurante
 ### Programación Orientada a Objetos en Python — Versión con herencia y principios SOLID
+Autor: Derly Zambrano
 
 ---
 
@@ -186,7 +187,3 @@ Todas las entradas del usuario están protegidas con `try/except`:
 | **Anotaciones de tipos** | Todos los métodos y funciones del proyecto declaran el tipo de sus parámetros y su valor de retorno (`-> None`, `-> str`, `-> List[Producto]`, etc.) |
 
 ---
-
-## 👨‍💻 Autor
-
-Desarrollado como actividad académica para la asignatura de **Programación Orientada a Objetos**.
